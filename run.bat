@@ -1,2 +1,2 @@
-#!/bin/bash
-python src/main.py "$@"
+@echo off
+python src\main.py %*
